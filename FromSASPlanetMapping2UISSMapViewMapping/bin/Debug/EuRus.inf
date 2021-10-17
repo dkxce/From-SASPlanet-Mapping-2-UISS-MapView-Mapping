@@ -1,0 +1,11 @@
+61.35.07N,26.45.45E
+43.15.40N,59.53.50E
+EuRus
+----------------------------------------------------------
+C:\Downloads\CD-REC\TEST\FromSASPlanetMapping2UISSMapViewMapping\FromSASPlanetMapping2UISSMapViewMapping\bin\Debug
+EuRus.kml 17102021071152UTC
+;UB3APB
+Lon E = 360 + LON WEST/LEFT // ex: 37.55 == 397.55
+Lat N = 180 - LAT NORTH/TOP // ex: 55.55 == 124.55
+Use SAS.Planet to Export & kml to View Bounds
+----------------------------------------------------------

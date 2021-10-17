@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml><GroundOverlay><name>MoscowS.jpg</name><color>88ffffff</color><Icon>
+<href>MoscowS.jpg</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north>55.9130425993163</north>
+<south>55.4075784761162</south>
+<east>38.0669403076172</east>
+<west>37.1392822265625</west>
+</LatLonBox></GroundOverlay></kml>

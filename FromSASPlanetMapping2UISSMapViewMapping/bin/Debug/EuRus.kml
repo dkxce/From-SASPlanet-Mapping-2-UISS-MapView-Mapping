@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml><GroundOverlay><name>EuRus.jpg</name><color>88ffffff</color><Icon>
+<href>EuRus.jpg</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north>61.5854921815236</north>
+<south>43.2612061247998</south>
+<east>59.8974609375</east>
+<west>26.7626953125</west>
+</LatLonBox></GroundOverlay></kml>
